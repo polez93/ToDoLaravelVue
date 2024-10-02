@@ -1,0 +1,21 @@
+# Laravel
+/vendor
+.env
+/public/storage
+/storage/*.key
+
+# Vue / Node.js
+/node_modules
+/public/build
+/public/hot
+
+# PHPUnit y otros archivos de desarrollo
+/.phpunit.cache
+/.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+
+# IDEs y entornos locales
+/.fleet
+/.idea
+/.vscode
