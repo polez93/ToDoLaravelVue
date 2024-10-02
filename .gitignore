@@ -6,7 +6,6 @@
 
 # Vue / Node.js
 /node_modules
-/public/build
 /public/hot
 
 # PHPUnit y otros archivos de desarrollo
